@@ -161,7 +161,7 @@ Y = None
 
 
 
-with open("data.csv") as infile:
+with open("raw_data.csv") as infile:
 	global X, Y
 	reader = csv.reader(infile, delimiter='\t', quotechar="|")
 	X = []
