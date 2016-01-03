@@ -2,12 +2,8 @@ Git repository for Mayank Mahajan's work on complex variants in Dr. Itsik Pe'er'
 
 Other packages that must also be installed:
 
-Weka-3.6.13
-
-PyFeast-1.1
-
-javaml-0.1.7
-
-FEAST
-
-MIToolbox
+* Weka-3.6.13
+* PyFeast-1.1
+* javaml-0.1.7
+* FEAST
+* MIToolbox
